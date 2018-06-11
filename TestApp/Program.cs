@@ -6,6 +6,7 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
+            // test git comment
             Console.WriteLine("Hello World!");
         }
     }
