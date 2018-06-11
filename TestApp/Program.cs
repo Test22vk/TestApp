@@ -9,6 +9,8 @@ namespace TestApp
             Console.WriteLine("Hello World!");
             Console.WriteLine();
             Console.WriteLine("More lines");
+            Console.WriteLine();
+            Console.WriteLine("and more");
             Console.ReadLine();
 
         }
